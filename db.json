@@ -1,0 +1,154 @@
+{
+  "Products": [
+      {
+        "id": "100",
+        "Name": "Lenovo Y520",
+        "Price": 15000,
+        "RemainingQuantity": 1,
+        "CategoryID": 1,
+        "ImgUrl": "https://th.bing.com/th/id/OIP.Bha841YBUq6Bx4OA_6SBaQHaFj?rs=1&pid=ImgDetMain",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Lenovo"
+      },
+      {
+        "id": 200,
+        "Name": "legion 5",
+        "Price": 35000,
+        "RemainingQuantity": 2,
+        "CategoryID": 1,
+        "ImgUrl": "https://th.bing.com/th/id/R.1b48232bed11b3988d38772e7bd75476?rik=h5rgDst6yhsAtQ&pid=ImgRaw&r=0",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Lenovo"
+      },
+      {
+        "id": 300,
+        "Name": "Note10+",
+        "Price": 15000,
+        "RemainingQuantity": 2,
+        "CategoryID": 2,
+        "ImgUrl": "https://th.bing.com/th/id/OIP.MkZSA_Rn7EQXv7UNxrhLdwHaHa?rs=1&pid=ImgDetMain",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Samsung"
+      },
+      {
+        "id": 400,
+        "Name": "Dell G15",
+        "Price": 30000,
+        "RemainingQuantity": 1,
+        "CategoryID": 1,
+        "ImgUrl": "https://th.bing.com/th/id/OIP.VAQ7AP-jLts_OZ1bnC4ggQHaEK?rs=1&pid=ImgDetMain",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Dell"
+      },
+      {
+        "ID": 500,
+        "Name": "MacBook Pro",
+        "Price": 2000,
+        "RemainingQuantity": 3,
+        "CategoryID": 1,
+        "ImgUrl": "https://example.com/macbook-pro-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Apple"
+      },
+      {
+        "ID": 600,
+        "Name": "iPhone 13",
+        "Price": 999,
+        "RemainingQuantity": 5,
+        "CategoryID": 2,
+        "ImgUrl": "https://example.com/iphone-13-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Apple"
+      },
+      {
+        "ID": 700,
+        "Name": "Surface Pro 8",
+        "Price": 1500,
+        "RemainingQuantity": 2,
+        "CategoryID": 1,
+        "ImgUrl": "https://example.com/surface-pro-8-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Microsoft"
+      },
+      {
+        "ID": 800,
+        "Name": "Galaxy Tab S7",
+        "Price": 699,
+        "RemainingQuantity": 4,
+        "CategoryID": 4,
+        "ImgUrl": "https://example.com/galaxy-tab-s7-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Samsung"
+      },
+      {
+        "ID": 900,
+        "Name": "HP Spectre x360",
+        "Price": 1800,
+        "RemainingQuantity": 2,
+        "CategoryID": 1,
+        "ImgUrl": "https://example.com/hp-spectre-x360-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "HP"
+      },
+      {
+        "ID": 1000,
+        "Name": "Google Pixel 6",
+        "Price": 799,
+        "RemainingQuantity": 3,
+        "CategoryID": 2,
+        "ImgUrl": "https://example.com/google-pixel-6-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Google"
+      },
+      {
+        "ID": 1100,
+        "Name": "ASUS ROG Zephyrus G14",
+        "Price": 1400,
+        "RemainingQuantity": 1,
+        "CategoryID": 1,
+        "ImgUrl": "https://example.com/asus-rog-zephyrus-g14-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "ASUS"
+      },
+      {
+        "ID": 1200,
+        "Name": "iPad Air 5th Gen",
+        "Price": 599,
+        "RemainingQuantity": 4,
+        "CategoryID": 4,
+        "ImgUrl": "https://example.com/ipad-air-5th-gen-image.jpg",
+        "totalPriceOfSelectedQuatities": 0,
+        "selectedQuantitiesToBuy": 0,
+        "brand": "Apple"
+      }
+  ],
+  "Categories" : [
+      {
+        "id": 1,
+        "Name": "laptop"
+      },
+      {
+        "id": 2,
+        "Name": "Mobiles"
+      },
+      {
+        "id": 3,
+        "Name": "desktops"
+      },
+      {
+        "id": 4,
+        "Name": "Tablets"
+      }
+    ]
+}
