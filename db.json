@@ -131,6 +131,15 @@
       "totalPriceOfSelectedQuatities": 0,
       "selectedQuantitiesToBuy": 0,
       "brand": "Apple"
+    },
+    {
+      "id": "3a7f",
+      "Name": "new phone",
+      "brand": "phonephone",
+      "CategoryID": "2",
+      "RemainingQuantity": 2,
+      "Price": 25000,
+      "ImgUrl": "C:\\fakepath\\R.png"
     }
   ],
   "Categories": [
